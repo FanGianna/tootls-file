@@ -1,0 +1,30 @@
+{
+  "name": "tools-file",
+  "version": "1.0.1",
+  "description": "tools vfs file",
+  "engines": {
+    "node": ">=6.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs",
+    "file"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FanGianna/tootls-file/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FanGianna/tootls-file"
+  },
+  "homepage": "https://github.com/FanGianna/tootls-file#readme",
+  "dependencies": {
+    "abv-pack": "0.0.1",
+    "abv-ts": "0.0.5",
+    "socketserve-node":"1.0.0"
+  }
+}
